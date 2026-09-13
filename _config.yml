@@ -1,0 +1,9 @@
+theme: minima
+title: "Ela's Blog"
+description: "Notes on mathematics, statistics, and machine learning"
+
+# baseurl must match the repo name exactly (with the leading slash) since
+# this is a project site living at ElaPolak.github.io/ela-blog/ rather
+# than at the domain root — without it, CSS and internal links will break.
+url: "https://ElaPolak.github.io"
+baseurl: "/ela-blog"
