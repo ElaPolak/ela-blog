@@ -6,4 +6,4 @@ url: "https://ElaPolak.github.io"
 baseurl: "/ela-blog"
 
 kramdown:
-  math_engine: null
+  math_engine: mathjax
